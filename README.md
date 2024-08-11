@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# Tetris with vue js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+a Game boy tetris design
+to start this use
+```
+npm install
+npm run dev
+```
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![level1](https://raw.githubusercontent.com/AngelZC790347/tetris-vue/main/public/level.png).
+
+![level2](https://raw.githubusercontent.com/AngelZC790347/tetris-vue/main/public/darkLevel.png).
